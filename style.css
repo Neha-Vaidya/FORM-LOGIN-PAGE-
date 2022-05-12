@@ -1,0 +1,29 @@
+body{
+ background-image: url('park.jpg');
+
+  
+}
+hr{
+
+  border-color: rgb(20, 20, 20);
+  border-width: 1px;
+ 
+}
+h1{
+  font-family: cursive;
+
+}
+h3
+{
+font-family: cursive;   
+  
+}
+form{
+     
+    text-align: center;
+    font-size: medium;
+    font-style: oblique;
+}
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
